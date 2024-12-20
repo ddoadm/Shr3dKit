@@ -20,7 +20,7 @@ face_recognition
 Flask==1.0.2
 pyftpdlib
 GitPython==2.1.1
-idna==2.8
+idna==3.7
 -i https://pypi.python.org/simple
 impacket
 importlib==1.0.4
